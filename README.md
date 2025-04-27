@@ -26,3 +26,4 @@ In conclusion,  the Real-Time Collaborative Document Editor is a highly practica
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/4d361c6e-20c6-41fe-8870-0d5280ab1701)
